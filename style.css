@@ -1,0 +1,22 @@
+body {
+	background-color:#a7ccd9;
+	
+}
+h1, h2, h3, h4 {font-family: 'Roboto'
+}
+h1, h2, h3, h4 {color: #fdfefe}
+div	{ background-color:#658DA9;
+padding: 30px;
+width: 500px;
+margin: 30px;
+border:1px #3E4D5F;
+border-radius:8px; 
+box-shadow: 0px 0px 30px #3b859e;
+text-align: center;
+}
+ p { color:#dde5e4}
+
+a { border-radius: 10px;
+color: white; background-color:#a780d4;
+padding:10px}
+a:hover { background-color: black; }
